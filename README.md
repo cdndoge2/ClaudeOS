@@ -9,6 +9,8 @@ V2 - Basic timer test.
 V3 - First build with a shell and basic commands.
 V4 - Added memory
 V5 - Added persistent storage(ish), notepad, calculator
+V6 - First build with a TUI Main Menu
+V7 - Added apps to the TUI
 
 ===================================================
 
